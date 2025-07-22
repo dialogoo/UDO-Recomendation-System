@@ -1,4 +1,7 @@
-# UDO – User Data Ownership Recommender System
+# UDO – Recommender System
+<img width="90" height="90" alt="laiive1" src="https://github.com/user-attachments/assets/6f214ee2-3004-43d8-890b-c22714992a35" />
+
+---
 
 **UDO** is a human-centric recommendation engine that prioritizes **user agency** and **data ownership**. Instead of black-box predictions, UDO empowers users to:
 - Write and update **primary preferences**, **secondary desires**, and **personal notes**
